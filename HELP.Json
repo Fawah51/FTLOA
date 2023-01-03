@@ -1,1 +1,6 @@
-{"name":"FTLOA","ticker":"FTLOA","description":"Supporting ADA."}
+{
+  "name": "FTLOA",
+  "description": "Supporting the chain for the unbanked",
+  "ticker": "FTLOA",
+  "homepage": "https://teststakepool.com"
+  }
